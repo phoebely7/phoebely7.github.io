@@ -51,7 +51,7 @@ body {
 }
 
 section {
-    padding: 5em 2em;
+    padding: 2em 1em;
 }
 
 img {
@@ -413,7 +413,7 @@ header {
     background: #111;
     color: var(--clr-accent);
     text-align: center;
-    padding: 2.5em 0;
+    padding: 0.5em 0;
     font-size: var(--fs-h3);
 }
 
@@ -440,12 +440,12 @@ header {
     list-style: none;
     display: flex;
     justify-content: center;
-    margin: 2em 0 0;
+    margin: 0em 0 0;
     padding: 0;
 }
 
 .social-list__item {
-    margin: 0 .5em;  
+    margin: 0.5em;  
 }
 
 .social-list__link {
